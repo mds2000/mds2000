@@ -20,6 +20,14 @@
 
 ### Tech I use
 <p>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
@@ -112,14 +120,6 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -138,7 +138,7 @@
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://reactnative.dev/img/header_logo.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original-wordmark.svg"
       alt="reactnative"
       width="40"
       height="40"
